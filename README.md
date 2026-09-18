@@ -140,10 +140,6 @@ The energy values come from bench measurements.
 The capacitor and panel sizes come from hand calculations.
 The Methodology section lists the formulas. The dataset is small enough to read and check by hand in `relatorio.md`.
 
-## Citations
-
-Add the paper reference here after publication.
-
 ## License and Contribution Guidelines
 
 No license file is present. Contact the author before you reuse this code.
