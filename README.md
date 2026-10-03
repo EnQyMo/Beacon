@@ -142,8 +142,6 @@ The Methodology section lists the formulas. The dataset is small enough to read 
 
 ## License and Contribution Guidelines
 
-No license file is present. Contact the author before you reuse this code.
+No license file is currently included in this repository; the code is not licensed for reuse or redistribution until a license is added. Contact the repository owner (EnQyMo) before reusing this code.
 
-Author: Lucas Manoel Martins de Souza.
-
-To contribute, open an issue or a pull request on the repository at <https://github.com/EnQyMo/Beacon>.
+Contributions: this repository does not currently define a formal contribution process. If you'd like to contribute, please open an issue first to discuss the proposed change before submitting a pull request.
